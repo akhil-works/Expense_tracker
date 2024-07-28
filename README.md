@@ -4,4 +4,4 @@ This is a simple Expense Tracker app with basic features like add new expense, f
 
 DEMO
 -----
-https://akhilkrishnak.github.io/Expense_tracker/
+https://akhil-works.github.io/Expense_tracker/
